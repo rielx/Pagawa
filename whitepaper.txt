@@ -1,0 +1,10 @@
+I.	Problem
+II.	Solution
+III.	Introduction to PAGAWA.PH
+IV.	Technical Specifications
+V.	Components
+VI.	How the System Works
+VII.	Payment System Detailed Information
+VIII.	Service Provider and Service Buyer Rating System
+IX.	Initial Launch and Marketing Strategies
+X.	Sustainable Operation and Future Developments
